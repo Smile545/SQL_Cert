@@ -119,4 +119,3 @@ END; //
 
 DELIMITER ;
 
-CALL DeleteUserProc(2);
